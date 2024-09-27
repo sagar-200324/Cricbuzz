@@ -1,0 +1,163 @@
+body{
+    background-color: gainsboro;
+   
+}
+header{
+    background-color:rgb(93, 230, 157);
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    color:white;
+    font-size: 2opx;
+
+}
+span{
+    
+    font-size:medium;
+    
+}
+#card1{
+    width: 370px;
+    height: 200px;
+    background-color:grey;
+    border-radius:10px ;
+    display: inline-block;
+    margin: 10px;
+}
+#parent1{
+    background-color:white;
+    height:140px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+button{
+    background-color:red;
+    color:white;
+    
+    width: 40px;
+    height:20px;
+    font-size:10px;
+    border-radius: 10px;
+}
+#parent3{
+    font-size: larger;
+}
+#parent4{
+    color:tomato;
+}
+#parent2{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color:whitesmoke;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+#card2{
+    width: 370px;
+    height: 200px;
+    background-color:grey;
+    border-radius:10px ;
+    display:inline-block ;
+    margin:10px;
+
+}
+#div1{
+    display:flex;
+    
+}
+#parent5{
+    background-color:white;
+    height:140px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#parent8{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color:whitesmoke;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+#parent7{
+    color:tomato;
+}
+#div2{
+    display:flex;
+    
+    
+}
+#card3{
+    width: 370px;
+    height: 200px;
+    background-color:grey;
+    border-radius:10px ;
+    display:inline-block ;
+    margin:10px;
+}
+#parent9{
+    background-color:white;
+    height:140px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color:whitesmoke;
+    padding-right: 10px;
+    padding-top: 10px;
+
+
+#score{
+    padding-left: 100px;
+    font-weight: bolder;
+}
+#card4{
+    width: 370px;
+    height: 200px;
+    background-color:grey;
+    border-radius:10px ;
+    display:inline-block ;
+    margin:10px;
+
+}
+#parent13{
+    background-color:white;
+    height:140px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#parent12{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color:whitesmoke;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+#parent16{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color:whitesmoke;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+#parent15{
+    color:tomato;
+}
+#parent11{
+    color:tomato;
+}
+
